@@ -1,4 +1,124 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # TheFatRat a Massive Exploiting Tool 
 
 [![Version](https://img.shields.io/badge/TheFatRat-1.9.6-brightgreen.svg?maxAge=259200)]()
@@ -7,10 +127,10 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
 <img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/17976841/36041771-38fbbb26-0dfc-11e8-8074-181cc778011c.png">
-An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload  and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . 
+An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be executed on windows, android, mac. The malware that created with this tool also has an ability to bypass most AV software protection. 
         
 ### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
+- If this project very help you to penetration testing and u want to support me, you can give me a cup of coffee :)
 - [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
 
 # Screenshot
@@ -19,13 +139,13 @@ An easy tool to generate backdoor and easy tool to post exploitation attack like
 
 <img src="https://cloud.githubusercontent.com/assets/17976841/18483870/39cb46ba-7a10-11e6-859b-1c1baa3c1b0a.png" width="32%"></img> <img src="https://cloud.githubusercontent.com/assets/17976841/18483871/39cb81ca-7a10-11e6-84f3-1683067fa4f5.png" width="32%"></img> <img src="https://cloud.githubusercontent.com/assets/17976841/18483873/39d54372-7a10-11e6-890f-41803a33b9c9.png" width="32%"></img>
 
-# Automating metasploit functions
+# Automating Metasploit functions
 
-- Create backdoor for windows , linux , mac and android
+- Create backdoor for windows, Linux , mac and android
 
 - bypass antivirus backdoorr
 
-- Checks for metasploit service and starts if not present
+- Checks for Metasploit service and starts if not present
 
 - Easily craft meterpreter reverse_tcp payloads for Windows, Linux, Android and Mac and another
 
@@ -37,11 +157,11 @@ An easy tool to generate backdoor and easy tool to post exploitation attack like
 
 - File pumper
 
-- Create backdoor with another techniq
+- Create backdoor with another technique
 
-- Autorunscript for listeners ( easy to use )
+- Autorun script for listeners ( easy to use )
 
-- Drop into Msfconsole
+- Drop into msfconsole
 
 - Some other fun stuff :)
 
@@ -49,14 +169,14 @@ An easy tool to generate backdoor and easy tool to post exploitation attack like
 
 # Autorun Backdoor
 
-- Autorun work if the victim disabled uac ( user acces control ) or low uac ( WINDOWS )
-- What is uac ? you can visit ( http://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off )
+- Autorun work if the victim disabled UAC ( user access control ) or low UAC ( WINDOWS )
+- What is UAC ? you can visit ( http://www.digitalcitizen.life/uac-why-you-should-never-turn-it-off )
 - I have also created 3 AutoRun files
 - Simply copy these files to a CD or USB
-- You can change the icon autorun file or exe in folder icon ( replace your another ico and replace name with autorun.ico )
+- You can change the icon autorun file or exe in folder icon ( replace your another icon and replace the name with autorun.ico )
 
 
-# HOW CHANGE THE ICONS ?
+# HOW CHANGE THE ICONS?
 
 - Copy your icon picture to folder /TheFatrat/icons
 - Change the name into autorun.ico
@@ -82,7 +202,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 * Easy to Use just input your number
 
 
-## ⭕️ A linux operating system. We recommend :
+## ⭕️ A Linux operating system. We recommend :
 - Kali Linux 2 or Kali 2016.1 rolling 
 - Cyborg
 - Parrot 
@@ -93,7 +213,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## ⭕️ READ
-- if prog.c file to large when create backdoor with powerfull.sh , you can use prog.c.backup and create another backup when you running option 2
+- if the prog.c file too large when creating backdoor with powerful.sh, you can use prog.c.backup and create another backup when you running option 2
 
 ## ⭕️ Update Fatrat
 - To update fatrat go to your TheFatRat folder and execute :
@@ -102,7 +222,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - To Update from 1.9.3 Version and up , execute on your fatrat folder : 
 ```./update && chmod +x setup.sh && ./setup.sh```
 
-## ⭕️ Tutorial ?
+## ⭕️ Tutorial?
 
 * Screetsec Channel : https://www.youtube.com/channel/UCpK9IXzLMfVFp9NUfDzxFfw
 * Udate thefatrat v1.8 https://youtu.be/6skLV6zPnec?list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8
@@ -126,26 +246,26 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 * TheFatRat 1.9.6 - Trodebi ( Embed Trojan into Debian Package ) https://youtu.be/NCsrcqhUBCc?list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8
 * ALL VIDEO IN HERE : https://www.youtube.com/results?search_query=thefatrat+backdoor
 
-## ⭕️ BUG ?
+## ⭕️ BUG?
 
-- Submit new issue 
+- Submit a new issue 
 
 
 ## ⭕️ Credits
 
 - Thanks to allah and Screetsec [ Edo -maland- ] <Me>
-- Dracos Linux from Scratch Indonesia ( Penetration os ) Thanksyou , you can see in http://dracos-linux.org/
+- Dracos Linux from Scratch Indonesia ( Penetration os ) Thankyou , you can see in http://dracos-linux.org/
 - Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
 - Thanks peterpt for help and contributes in this project :)) ( www.github.com/peterpt )
-- Dana James Traversie https://github.com/dana-at-cp/backdoor-apk
+- Dana James Traverse https://github.com/dana-at-cp/backdoor-apk
 - z0noxz (Powerstager) https://github.com/z0noxz/powerstager 
 - http://www.kali.org/"
 - Jack Wilder admin in http://www.linuxsec.org
 - source for c program https://github.com/rsmudge
-- And another open sources tool in github
+- And another open sources tool in GitHub
 - Uptodate new tools hacking visit http://www.kitploit.com
 
 ## ⭕️ Disclaimer
 
-***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Edo -m- ).***
+***Note: modifications, changes, or alterations to this source code is acceptable, however, any public releases utilizing this code must be approved by written this tool ( Edo -m- ).***
 
